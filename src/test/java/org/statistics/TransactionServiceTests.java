@@ -16,10 +16,6 @@ import org.statistics.service.TxnServiceImpl;
 
 import static org.mockito.Mockito.*;
 
-/**
- * @author zaur.guliyev
- * @since 1.0.0
- */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class TransactionServiceTests {
